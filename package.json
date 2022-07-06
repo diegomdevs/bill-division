@@ -1,0 +1,27 @@
+{
+  "name": "bill-division",
+  "version": "1.0.0",
+  "description": "Solving Bill Division, a challenge from hackerrank.",
+  "main": "src",
+  "scripts": {
+    "build": "tsc",
+    "start": "node src/",
+    "dev": "ts-node src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegomdevs/bill-division.git"
+  },
+  "keywords": [
+    "node",
+    "typescript",
+    "hackerrank",
+    "challenge"
+  ],
+  "author": "Diego González <diegom.develops@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diegomdevs/bill-division/issues"
+  },
+  "homepage": "https://github.com/diegomdevs/bill-division#readme"
+}
